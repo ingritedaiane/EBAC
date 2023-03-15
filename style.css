@@ -1,0 +1,27 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: auto;
+    width: 600px;
+}
+
+#photo {
+    display: block;
+    text-align: center;
+    
+}
+
+#inicio h1 {
+    text-align: center; color: #4800b9;
+}
+
+#trecho p {
+    text-align: center; font-size: 16px;
+}
+
+#link {
+    text-align: center;
+}
+
+#info {
+    text-align: center;
+}
