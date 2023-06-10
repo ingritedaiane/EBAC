@@ -9,7 +9,4 @@
 <h3>👩‍💻 Desenvolvendo e aprendendo a utilizar as tags e atributos 👩‍💻 <br>
  Links, imagens, estilização de cores, recursos de fontes e textos.</h3><br>
 <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO%20COM%20SUCESSO&color=GREEN&style=for-the-badge"/><br>
-<br>
-<a href="https://ingritedaiane.github.io/EBAC/" target_="blank"> Vizualize Clicando Aqui!</a>📌<br>
-<a href="https://ingritedaiane.github.io/EBAC/" target_="blank"> Clicking Here!</a>📌
 </div>
